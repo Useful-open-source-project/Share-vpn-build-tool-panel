@@ -23,6 +23,10 @@ https://github.com/MHSanaei/3x-ui
 
 
 
+It's not the same core, it's a different protocol.
+
+
+
 There is a more complex one, and you should be proficient in Linux commands or configurations to use it better.
 
  https://github.com/apernet/hysteria
