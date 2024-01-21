@@ -49,8 +49,9 @@ There is a more complex one, and you should be proficient in Linux commands or c
 
  X-UI
 
- We are using vless reality and need a disguised domain name, which can be our own or used on other people's websites. It must support https and then it must support tls 1.3. This is the rigid requirement established by this protocol. When accessing the website domain name, another certificate is required.  The detailed information shows that it supports tls 1.3, which means it is OK.
 
- Then there is the place to fill in the domain name. Do not change the port of the target website. Just change the domain name. The optional domain name is the certificate of which website you want to apply. Just fill in the domain name. Do not bring the protocol. The network 81 option is selected by default.  TCP, remember to add that user. Under the user option, select flow. Under the option, select xtls-rprx-vision.
+We are using vless reality and need a disguised domain name, which can be our own or used on other people's websites. It must support https and then it must support tls 1.3. This is the rigid requirement established by this protocol. When accessing the website domain name, another certificate is required.  The detailed information shows that it supports tls 1.3, which means it is OK.
+
+ Then there is the place to fill in the domain name. Do not touch the port of the target website. Just change the domain name. The optional domain name is the domain name of the website you want to use. Just fill in the domain name. Do not bring the protocol. The network 81 option is selected by default.  TCP, remember to add that user. Under the user option, select flow. Under the option, select xtls-rprx-vision.
 
  Important things have to be said three times. The firewall port must be allowed to pass before it can be used normally.
