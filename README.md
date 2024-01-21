@@ -33,3 +33,15 @@ There is a more complex one, and you should be proficient in Linux commands or c
 
 
  https://v2.hysteria.network/
+
+
+
+
+
+
+ To download the corresponding platform or use the client, please visit this branch for detailed instructions.
+
+
+
+
+ https://github.com/Useful-open-source-project/Share-vpn-build-tool-panel/blob/Agent-tool-client/README.md
